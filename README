@@ -1,0 +1,5 @@
+A model of a program to control an ore processing plant.
+
+Written for the Software Technology 152 unit at Curtin University, Australia.
+
+Uses linked-lists as queues and stacks, which model sheds for iron and nickel ore.
